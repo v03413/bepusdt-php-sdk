@@ -1,0 +1,17 @@
+{
+    "name": "v03413/bepusdt-php-sdk",
+    "description": "PHP SDK for BEpusdt",
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "V03413\\BepusdtPhpSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "v03413"
+        }
+    ]
+}
